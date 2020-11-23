@@ -1,0 +1,44 @@
+# Sample Project
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Description
+
+Sample description
+
+## Table of Contents 
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+## Installation
+Follow instructions to install project
+```
+sample install with npm install
+```
+
+## Usage
+sample usage with node index.js
+
+## License 
+      This project is licensed under the MIT license.
+  
+## Contributing
+sample guidelines, you can't contribute
+
+## Tests
+Follow instructions to test project
+```
+sample testing npm run test
+```
+
+## Questions
+Contact me at sample@email.com or find me on github sample@sample.github.com for any questions
